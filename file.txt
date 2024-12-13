@@ -1,0 +1,9 @@
+q0 q1 q2 q3 q4
+dig op $
+q0
+q4
+q0 dig q1
+q1 op q2
+q2 dig q3
+q3 op q2
+q3 $ q4
